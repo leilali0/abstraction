@@ -1,0 +1,21 @@
+body, html {
+  background-color: #222;
+  color: white;
+  height:100%;
+}
+
+.mainContainer {
+  padding-top: 100px
+}
+
+.lightbox {
+  display: flex;
+  justify-content: center;
+}
+
+.lightbox img {
+  width: 500px;
+  height: 500px;
+  margin: -75px 0 0 -100px;width: 500px;
+  overflow: hidden;
+}
